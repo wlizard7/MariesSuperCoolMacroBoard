@@ -10,7 +10,10 @@ Hello, this is my submission for my hackpad. MariesSuperCoolMacroBoard!
 
 # CAD
 
-The case was made in Fusion360. The case is three separate parts that are held together with 4 heatset inserts and screws! The PCB is held down with two more screws and heatset inserts. 
+The case was made in Fusion360. The case is three separate parts that are held together with 4 heatset inserts and screws! The PCB is held down with two more screws and heatset inserts.
+
+<img width="657" height="237" alt="Screenshot 2025-12-27 072505" src="https://github.com/user-attachments/assets/d721ab49-6202-41c0-b42e-13dddbfba756" />
+
 
 # Firmware
 
