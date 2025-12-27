@@ -17,7 +17,7 @@ The case was made in Fusion360. The case is three separate parts that are held t
 
 # Firmware
 
-The firmware was made using QMK. 
+The firmware was made using QMK. It uses the rotary encoder for volume, rotating it to change the volume up or down and pressing it to mute.
 
 ## Challenges
 This was my first ever hardware project, although I did know some Fusion360 before starting. I came into this with no idea of what KiCad was or hardly any knowledge about hardware however I somehow 
