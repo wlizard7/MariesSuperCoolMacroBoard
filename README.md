@@ -1,13 +1,16 @@
 # MariesSuperCoolMacroBoard
-Hello, this is my submission for my hackpad! 
+Hello, this is my submission for my hackpad. MariesSuperCoolMacroBoard! 
 
-## Features 
+<img width="824" height="668" alt="Screenshot 2025-12-24 075100" src="https://github.com/user-attachments/assets/8e9e55c4-4cfb-4fc3-9261-fa44e96f9470" />
 
 # PCB 
 
-
 <img width="676" height="385" alt="Schematic for PCB" src="https://github.com/user-attachments/assets/e8aceb82-045d-4b59-9828-9b99a5ddd143" />
 <img width="281" height="300" alt="PCB" src="https://github.com/user-attachments/assets/5cd2a9a9-ba7c-4230-ad08-e1a65b63cd6c" />
+
+# CAD
+
+The case was made in Fusion360. The case is three separate parts that are held together with 4 heatset inserts and screws! The PCB is held down with two more screws and heatset inserts. 
 
 ## Challenges
 This was my first ever hardware project, although I did know some Fusion360 before starting. I came into this with no idea of what KiCad was or hardly any knowledge about hardware however I somehow 
@@ -28,4 +31,4 @@ BOM :
 + 6x M3x5mx4mm heatset inserts
 
 ## Notes
-This was super fun! Three all nighters later, my project is done. I learned a lot through this process, and this has given me a whole lot of ideas of what project to do next.
+This was super fun! Three all nighters later, my project is done. I learned a lot through this process, and this has given me a whole lot of ideas of what to do next.
