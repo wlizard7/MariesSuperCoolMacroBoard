@@ -12,6 +12,10 @@ Hello, this is my submission for my hackpad. MariesSuperCoolMacroBoard!
 
 The case was made in Fusion360. The case is three separate parts that are held together with 4 heatset inserts and screws! The PCB is held down with two more screws and heatset inserts. 
 
+# Firmware
+
+The firmware was made using QMK. 
+
 ## Challenges
 This was my first ever hardware project, although I did know some Fusion360 before starting. I came into this with no idea of what KiCad was or hardly any knowledge about hardware however I somehow 
 figured things out AKA I watched a bunch of YouTube tutorials. Even with CAD experience, making the case was trickier than I thought it'd be, and I ended up having to remake both the PCB and case a few times. 
